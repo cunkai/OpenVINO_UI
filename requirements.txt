@@ -1,0 +1,11 @@
+flask
+flask_cors
+openvino-genai
+requests
+beautifulsoup4
+modelscope
+huggingface_hub
+tinydb
+numpy
+opencv-python
+lxml
